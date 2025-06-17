@@ -1,0 +1,10 @@
+data/*.tar.gz
+data/cifar-10-batches-py
+data/stl10_binary
+
+# Jupyter geçici dosyaları
+.ipynb_checkpoints/
+
+# IDE/Editör dosyaları
+.vscode/
+.idea/
